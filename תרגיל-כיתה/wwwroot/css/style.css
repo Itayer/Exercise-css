@@ -1,0 +1,31 @@
+﻿body { 
+    background-color: lightgray;
+    text-align: center;
+}
+
+div {
+    padding: 15px;
+    display: inline-block;
+}
+
+.student-1 {
+    color: blue;
+    border: 1px solid blue;
+}
+
+.student-2 {
+    color: green;
+    border: 1px solid green;
+}
+.student-3 {
+    color: red;
+    border: 1px solid red;
+}
+.student-4 {
+    color: orange;
+    border: 1px solid orange;
+}
+.student-5 {
+    color: black;
+    border: 1px solid black;
+}
